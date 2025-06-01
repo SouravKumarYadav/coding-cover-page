@@ -1,6 +1,6 @@
 # Coding Cover Page
 
-![Preview]([Coding%20Cover%20Page.png](https://github.com/SouravKumarYadav/coding-cover-page/blob/main/Coding%20Cover%20Page.png?raw=true))
+![Preview](https://github.com/SouravKumarYadav/coding-cover-page/blob/main/Coding%20Cover%20Page.png?raw=true)
 
 > "Code is more than some bytes in a file" - A sleek developer inspiration page
 
