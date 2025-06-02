@@ -29,4 +29,4 @@
 This project was created as part of my learning journey in the NxtWave CCBP 4.0 Program.
 
 ## 📫 Connect with me  
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/sourav-kumar-cs/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/sourav-kumar-cs/)
